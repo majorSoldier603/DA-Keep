@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dakeep-ec84e": {
+      "hosting": {
+        "da-keep": [
+          "dakeep-ec84e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dakeep-ec84e"
+  }
+}
